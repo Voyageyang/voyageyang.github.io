@@ -8,7 +8,7 @@
     <link href="/2022/06/24/test-blog/"/>
     <url>/2022/06/24/test-blog/</url>
     
-    <content type="html"><![CDATA[<p>这是一篇测试文章<br><img src="/test-blog/test.jpg" alt="test图片引用"></p>]]></content>
+    <content type="html"><![CDATA[<p>这是一篇测试文章 </p><p><img src="https://cdn.jsdelivr.net/gh/Voyageyang/PictureBed@main/img/202206241601659.jpg" alt="github1"></p>]]></content>
     
     
     <categories>
