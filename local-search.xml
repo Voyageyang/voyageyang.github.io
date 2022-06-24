@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>test-blog</title>
+    <link href="/2022/06/24/test-blog/"/>
+    <url>/2022/06/24/test-blog/</url>
+    
+    <content type="html"><![CDATA[<p>这是一篇测试文章<br><img src="/test-blog/test.jpg" alt="test图片引用"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>Java</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>原创</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2022/06/23/hello-world/"/>
     <url>/2022/06/23/hello-world/</url>
